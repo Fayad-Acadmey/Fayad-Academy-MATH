@@ -1,1 +1,1 @@
-export { default } from '../Student-dashboard';
+export { default } from './student-dashboard';
